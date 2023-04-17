@@ -1,5 +1,6 @@
-## <p align="center">Hi there :wave:</p>
-## <p align="center">I'm Mattia Volpe :blush:</p>
+<h2 align="center">Hi there :wave:</h2>
+<h2 align="center">I'm Mattia Volpe :blush:</h2>
+
 ---
 ### :mortar_board: I'm learning Full-Stack Web Development since mid December 2022. First as self-taught on "The Odin Project" and currently as a student of "Boolean" since 25/01/2023 :mortar_board:
 ---
