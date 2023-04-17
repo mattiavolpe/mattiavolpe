@@ -1,9 +1,9 @@
-<h2 align="center">Hi there :wave:</h2>
-<h2 align="center">I'm Mattia Volpe :blush:</h2>
-<hr>
+<h2 style="border-bottom:none" align="center">Hi there :wave:</h2>
+<h2 style="border-bottom:none" align="center">I'm Mattia Volpe :blush:</h2>
+<hr style="height: 1px">
 <h3> :mortar_board: I'm learning Full-Stack Web Development since mid December 2022. First as self-taught on "The Odin Project" and currently as a student of "Boolean" since 25/01/2023 :mortar_board:</h3>
-<hr>
-<h2 align="center">:computer: Web-Development used technologies: :computer:</h2>
+<hr style="height: 1px">
+<h2 style="border-bottom:none" align="center">:computer: Web-Development used technologies: :computer:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=github,postman,stackoverflow&perline=5">
   </a>
 </p>
-<hr>
+<hr style="height: 1px">
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=mattiavolpe&hide=stars&count_private=true&show_icons=true&theme=transparent&text_color=e1e1e1">
