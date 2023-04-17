@@ -1,4 +1,6 @@
-### Hi there 👋
+### <center>Hi there :wave:</center>
+### <center>I'm Mattia Volpe (a.k.a. mattiavolpe here on GitHub) :blush:</center>
+---
 
 <!--
 **mattiavolpe/mattiavolpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
