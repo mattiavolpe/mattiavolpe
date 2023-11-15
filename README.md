@@ -6,11 +6,11 @@ I'm Mattia Volpe :blush:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,vue,angular,vite,scss,php,laravel,java,spring,git,github&perline=5">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,ts,vue,angular,vite,scss,php,laravel,java,spring,git&perline=5">
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,stackoverflow&perline=5">
+    <img src="https://skillicons.dev/icons?i=github,postman,stackoverflow&perline=5">
   </a>
 </p>
 
