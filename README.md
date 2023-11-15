@@ -10,7 +10,7 @@ I'm Mattia Volpe :blush:</h2>
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,postman,stackoverflow&perline=5">
+    <img src="https://skillicons.dev/icons?i=angular,github,postman,stackoverflow&perline=5">
   </a>
 </p>
 
