@@ -6,7 +6,7 @@ I'm Mattia Volpe :blush:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,vue,nodejs,vite,scss,git&perline=5">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,vue,vite,scss,git&perline=5">
   </a>
   <br>
   <a href="https://skillicons.dev">
